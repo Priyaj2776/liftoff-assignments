@@ -20,15 +20,14 @@ The features I will be using to impletment my project are:
 ### Technologies
 The tecnologies I will be using for my project are:
 
-C#
-intelliJ
-Bootstrap
-MySQL
-Javascript
+* C#
+* intelliJ
+* Bootstrap
+* MySQL
+* Javascript
 
 ### What I'll Have to Learn
-Include what you will need to learn here
 
-C#
-Hotel Rates API
-Javascript
+* C#
+* Hotel Rates API
+* Javascript
