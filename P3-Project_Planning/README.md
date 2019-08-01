@@ -32,4 +32,4 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include a link to your project on GitHub)
 <br>
-<a  href="https://github.com/Priyaj2776/liftoff-assignments.git"> My GitHub project Repo</a>
+<a  href="https://github.com/Priyaj2776/Hotel-Check-in-System.git"> My GitHub project Repo</a>
