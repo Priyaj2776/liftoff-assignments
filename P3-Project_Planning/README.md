@@ -26,8 +26,10 @@ For this assignment, you'll create some initial plans for your project.
 ### Project Tracker
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+<br>
 <a href="https://trello.com/b/rGVukFk0/hotel-check-in-system">Click here for my Public Pivotal project</a>
 ### Project Repo Link
 
 (Include a link to your project on GitHub)
+<br>
 <a  href="https://github.com/Priyaj2776/liftoff-assignments.git"> My GitHub project Repo</a>
